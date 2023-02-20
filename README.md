@@ -1,10 +1,10 @@
 <h1 align="center">Hello, I'm  <a href="https://t.me/kdzmit" /target="_blank">CryptoYorz</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Nodes / Testnet by CryptoYorz</h3>
+<h3 align="center"> Nodes / Testnet by CryptoYorz</h3>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=kamenkadmitry&style=flat-square&color=blue" alt=""/>
-
+</div
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
